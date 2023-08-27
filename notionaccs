@@ -1,0 +1,17 @@
+if (id === "facebook") {
+          window.open("https://facebook.com/", '_blank').focus(); //https://www.facebook.com/profile.php?id=100092622603957
+
+        else if (id === "twitter") {
+          window.open("https://twitter.com/", '_blank').focus(); //https://twitter.com/fayetalo
+        }
+        }
+        else if (id === "pinterest") {
+          window.open("https://www.pinterest.com/", '_blank').focus(); //https://www.pinterest.ph/ayesrah/
+             .social {
+      background-color: #E2C799;
+      width: 55px;
+      height: 55px;
+      border-radius: 50%;
+      display: grid;
+      place-items: center;
+    }
